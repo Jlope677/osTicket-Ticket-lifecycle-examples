@@ -152,10 +152,6 @@
 <img width="959" height="565" alt="johnC(3)" src="https://github.com/user-attachments/assets/44631b34-444e-4df6-8c04-0e98407f14a3" />
 <img width="1042" height="583" alt="johnC(4)" src="https://github.com/user-attachments/assets/79fba6f0-58cf-4357-bf26-bebe4e2d853a" />
 <img width="949" height="516" alt="johnC(5)" src="https://github.com/user-attachments/assets/bf4e659e-7001-4970-98ce-fd72b41d67d0" />
-<img width="929" height="854" alt="johnC(6)" src="https://github.com/user-attachments/assets/60a6312f-86d5-467b-9ad7-0a371dbe328b" />
-<img width="933" height="474" alt="johnC(7)" src="https://github.com/user-attachments/assets/047b30fc-887e-42f1-87d8-3948acf548b9" />
-<img width="903" height="401" alt="johnC(8)" src="https://github.com/user-attachments/assets/e94a7196-dda3-4441-9480-0f04fd858cbf" />
-
 
 
 
@@ -164,6 +160,9 @@
 - Replaced the charger, confirmed laptop charging successfully.
 - Closed the ticket as **Resolved**, documenting the root cause.
 
+<img width="929" height="854" alt="johnC(6)" src="https://github.com/user-attachments/assets/60a6312f-86d5-467b-9ad7-0a371dbe328b" />
+<img width="933" height="474" alt="johnC(7)" src="https://github.com/user-attachments/assets/047b30fc-887e-42f1-87d8-3948acf548b9" />
+<img width="903" height="401" alt="johnC(8)" src="https://github.com/user-attachments/assets/e94a7196-dda3-4441-9480-0f04fd858cbf" />
 
 
 ⚠️ **Note on Permissions:** Just like in Ticket 2, John should have had reply permissions here too. I only noticed it too late, which limited him to internal notes.
