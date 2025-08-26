@@ -12,7 +12,15 @@
 - Changed the **SysAdmins Department** to a **Top Level Department**.
 - **Deleted** the Maintenance Department (not archived).
 
-📸 *[Insert screenshot of department changes here]*
+**SysAdmins Department**
+<img width="1240" height="297" alt="Change the SysAdmins Department to a Top Level Department(1)" src="https://github.com/user-attachments/assets/828b0b51-c1b8-4ce3-b075-f576734636ac" />
+<img width="1023" height="886" alt="Change the SysAdmins Department to a Top Level Department(2)" src="https://github.com/user-attachments/assets/5dcae3b6-ecbf-45ac-a395-9020b2dae3a0" />
+**Maintence Department**
+<img width="1336" height="565" alt="DELETE the Maintenance Department" src="https://github.com/user-attachments/assets/6ce4d2e5-c7b3-41a2-a25c-768dce57ff9c" />
+
+
+
+
 
 **Reflection:** Admin setup is just as important as ticket handling. A well-structured department tree ensures escalations and permissions behave the way they should.
 
@@ -27,7 +35,12 @@
 - Summary: *entire mobile/online banking system is down*
 - Description: *Employees unable to access online banking; occasional logins fail.*
 
-📸 *[Screenshots: ticket creation and confirmation]*
+<img width="1000" height="569" alt="create ticket" src="https://github.com/user-attachments/assets/ca5a8528-36b3-484d-91bf-f0de5ad01b53" />
+<img width="866" height="885" alt="create ticket2" src="https://github.com/user-attachments/assets/be42140c-85aa-4eb3-9e27-0624f8808419" />
+<img width="849" height="391" alt="create ticket3" src="https://github.com/user-attachments/assets/bc1f1384-ba2d-4678-a134-425c8eaecc9c" />
+
+
+
 
 ### John’s Updates
 - Updated SLA from *Default* → **Sev-A (Critical, 1 hour, 24/7)**.
