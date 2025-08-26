@@ -106,10 +106,7 @@
 <img width="1082" height="730" alt="johnB(2)" src="https://github.com/user-attachments/assets/7b9f05c2-abdf-4cbe-b657-28db919e0e64" />
 <img width="1109" height="711" alt="johnB(3)" src="https://github.com/user-attachments/assets/7c6317a9-873d-447b-a9fb-f3d70be871cb" />
 <img width="1099" height="565" alt="johnB(4)" src="https://github.com/user-attachments/assets/b50ecdf7-15e6-41ef-8749-8ef285b914c0" />
-<img width="1098" height="847" alt="johnB(5)" src="https://github.com/user-attachments/assets/5099474d-0579-4065-ae73-8cf7cc292fbc" />
-<img width="1118" height="796" alt="johnB(6)" src="https://github.com/user-attachments/assets/633c0177-2dce-440e-8a7e-08f61a15004f" />
-<img width="1093" height="696" alt="johnB(7)" src="https://github.com/user-attachments/assets/b24048ed-c45f-4b3f-a004-4ebe7dfd5a19" />
-<img width="1131" height="496" alt="johnB(8)" src="https://github.com/user-attachments/assets/8b8d27f2-258f-4d69-812f-0da56ec8fe4a" />
+
 
 
 
@@ -118,6 +115,11 @@
 - Documented troubleshooting via internal notes.
 - Restart fixed the issue.
 - Ticket marked **Resolved**.
+
+<img width="1098" height="847" alt="johnB(5)" src="https://github.com/user-attachments/assets/5099474d-0579-4065-ae73-8cf7cc292fbc" />
+<img width="1118" height="796" alt="johnB(6)" src="https://github.com/user-attachments/assets/633c0177-2dce-440e-8a7e-08f61a15004f" />
+<img width="1093" height="696" alt="johnB(7)" src="https://github.com/user-attachments/assets/b24048ed-c45f-4b3f-a004-4ebe7dfd5a19" />
+<img width="1131" height="496" alt="johnB(8)" src="https://github.com/user-attachments/assets/8b8d27f2-258f-4d69-812f-0da56ec8fe4a" />
 
 
 ⚠️ **Note on Permissions:** John should have had reply permissions, but I overlooked it. Because of this, he only used internal notes. In a real-world setting, I would have corrected the agent role permissions so he could communicate directly with the user.
