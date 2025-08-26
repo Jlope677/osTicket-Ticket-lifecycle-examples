@@ -135,21 +135,34 @@
 - Summary: *CFO’s laptop will no longer turn on*
 - Description: *Laptop won’t turn on despite pressing the power button.*
 
-📸 *[Screenshots of ticket creation]*
+<img width="815" height="935" alt="ticket3(1)" src="https://github.com/user-attachments/assets/290a3fc1-14de-4f73-8986-ade60ab212d1" />
+<img width="811" height="461" alt="ticket3(2)" src="https://github.com/user-attachments/assets/242779f8-0a76-4be4-82ea-303b5db1b7ef" />
+
+
 
 ### John’s Updates
 - Updated priority from *Normal* → **Emergency**.
 - Changed SLA from *Default* → **Sev-B**, with note that it may be reclassified.
 - Assigned ticket to himself.
 
-📸 *[Screenshots of updates]*
+<img width="959" height="449" alt="johnC(1)" src="https://github.com/user-attachments/assets/a977eb5d-a502-4394-8633-1d60ea9073e5" />
+<img width="911" height="410" alt="johnC(2)" src="https://github.com/user-attachments/assets/0d5c96f9-fc25-457d-9d92-1c3c43680b20" />
+<img width="959" height="565" alt="johnC(3)" src="https://github.com/user-attachments/assets/44631b34-444e-4df6-8c04-0e98407f14a3" />
+<img width="1042" height="583" alt="johnC(4)" src="https://github.com/user-attachments/assets/79fba6f0-58cf-4357-bf26-bebe4e2d853a" />
+<img width="949" height="516" alt="johnC(5)" src="https://github.com/user-attachments/assets/bf4e659e-7001-4970-98ce-fd72b41d67d0" />
+<img width="929" height="854" alt="johnC(6)" src="https://github.com/user-attachments/assets/60a6312f-86d5-467b-9ad7-0a371dbe328b" />
+<img width="933" height="474" alt="johnC(7)" src="https://github.com/user-attachments/assets/047b30fc-887e-42f1-87d8-3948acf548b9" />
+<img width="903" height="401" alt="johnC(8)" src="https://github.com/user-attachments/assets/e94a7196-dda3-4441-9480-0f04fd858cbf" />
+
+
+
 
 ### Resolution
 - Diagnosed the issue as a broken charger.
 - Replaced the charger, confirmed laptop charging successfully.
 - Closed the ticket as **Resolved**, documenting the root cause.
 
-📸 *[Screenshots of resolution]*
+
 
 ⚠️ **Note on Permissions:** Just like in Ticket 2, John should have had reply permissions here too. I only noticed it too late, which limited him to internal notes.
 
