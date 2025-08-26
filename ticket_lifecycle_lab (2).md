@@ -183,5 +183,5 @@ For myself, this project shows that I am capable of using a ticketing system lik
 - Continue to redo this lab until every step feels natural and repeatable—building my technical intuition further.
 - Practice handling **ticket intake through multiple channels** (phone, chat, email, web forms, even in-person requests) to simulate real-world help desk conditions.
 
-**Personal Note**:** This write-up is not just practice; it’s a showcase for future employers and teammates. It reflects both my technical ability and my commitment to documenting work clearly and professionally.
+**Personal Note :** This write-up is not just practice; it’s a showcase for future employers and teammates. It reflects both my technical ability and my commitment to documenting work clearly and professionally.
 
