@@ -9,8 +9,8 @@
 - **End Users osTicket URL:** [http://localhost/osTicket](http://localhost/osTicket)
 
 ### Initial Configuration
-- Changed the **SysAdmins Department** to a **Top Level Department**.
-- **Deleted** the Maintenance Department (not archived).
+- Changed the **SysAdmins Department** to a **Top Level Department** to give it broader permissions and higher authority for escalations.
+- Deleted the **Maintenance Department** because before deletion, all tickets were being misrouted there by default, causing confusion and delays.
 
 **SysAdmins Department**
 <img width="1240" height="297" alt="Change the SysAdmins Department to a Top Level Department(1)" src="https://github.com/user-attachments/assets/828b0b51-c1b8-4ce3-b075-f576734636ac" />
@@ -22,7 +22,8 @@
 
 
 
-**Reflection:** Admin setup is just as important as ticket handling. A well-structured department tree ensures escalations and permissions behave the way they should.
+**Reflection:** Setting up departments properly makes a big difference. By deleting Maintenance, tickets could flow where they belonged, and by elevating SysAdmins to a top-level department, I ensured critical issues could be escalated with the right level of access and visibility.
+
 
 ---
 
@@ -47,7 +48,18 @@
 - Changed Help Topic to **Business Critical Outage**.
 - Assigned ticket to **Online Banking Team** with notes.
 
-📸 *[Screenshots of updates]*
+<img width="676" height="498" alt="john1" src="https://github.com/user-attachments/assets/8fd8478a-1a1e-479a-951c-03c1a7846344" />
+<img width="1391" height="455" alt="john2" src="https://github.com/user-attachments/assets/472802bc-a9dc-4586-8b65-eb88e7aa5321" />
+<img width="1350" height="618" alt="john3" src="https://github.com/user-attachments/assets/5a520395-3fea-4da7-a8cd-f0083cd3c6e2" />
+<img width="1325" height="698" alt="john4" src="https://github.com/user-attachments/assets/7ea019e0-639f-41bf-bbfd-873de0284a2c" />
+<img width="1314" height="681" alt="john5" src="https://github.com/user-attachments/assets/372954e7-6c4a-4a7e-ae3a-003a1807fed2" />
+<img width="1321" height="689" alt="john6" src="https://github.com/user-attachments/assets/57108080-6f82-4f39-ac7d-5ef33c30f1ee" />
+
+
+
+
+
+
 
 ### Jane’s Resolution
 - Reassigned the ticket to herself.
@@ -55,7 +67,18 @@
 - Confirmed root cause (bad update), rolled it back, and notified vendor.
 - Marked the ticket **Resolved**.
 
-📸 *[Screenshots of replies and final resolution]*
+<img width="700" height="578" alt="jane" src="https://github.com/user-attachments/assets/4316a78f-1971-4e0d-88fe-43767d02de9e" />
+<img width="1376" height="640" alt="jane1" src="https://github.com/user-attachments/assets/31383464-949f-4a0d-bbec-81526a970fc1" />
+<img width="1448" height="933" alt="jane2" src="https://github.com/user-attachments/assets/15a9ba19-2790-40d0-9c89-1cf6133996af" />
+<img width="1321" height="850" alt="jane3" src="https://github.com/user-attachments/assets/c9b2569d-3209-41f2-9973-67807473b80e" />
+<img width="1343" height="880" alt="jane4" src="https://github.com/user-attachments/assets/a48f65d7-208f-4a8e-9989-505e67db974e" />
+<img width="1424" height="541" alt="jane5" src="https://github.com/user-attachments/assets/e1f0fff8-2945-4557-b3a7-3c29a63b87e2" />
+
+
+
+
+
+
 
 **Reflection:** This ticket showed the full lifecycle—intake, escalation, reassignment, communication, and resolution. The hand-off between John and Jane mirrors real-world teamwork in critical incidents.
 
@@ -70,20 +93,32 @@
 - Summary: *Accounting department needs Adobe upgrade*
 - Description: *Many users can’t use Adobe software.*
 
-📸 *[Screenshots of ticket creation]*
+<img width="972" height="921" alt="ticket2(1)" src="https://github.com/user-attachments/assets/01eb5d80-9ad2-4ea9-971e-87e24737f3ee" />
+<img width="979" height="551" alt="ticket2(2)" src="https://github.com/user-attachments/assets/510b667f-267a-4b57-9186-f8fbbe22f829" />
+
+
+
 
 ### John’s Updates
 - Changed SLA from *Default* → **Sev-C**, with justification: only 2 users impacted.
 - Assigned the ticket to himself.
+<img width="1132" height="482" alt="johnb(1)" src="https://github.com/user-attachments/assets/bb32bdef-957f-440d-a1ad-bf9a8e444934" />
+<img width="1082" height="730" alt="johnB(2)" src="https://github.com/user-attachments/assets/7b9f05c2-abdf-4cbe-b657-28db919e0e64" />
+<img width="1109" height="711" alt="johnB(3)" src="https://github.com/user-attachments/assets/7c6317a9-873d-447b-a9fb-f3d70be871cb" />
+<img width="1099" height="565" alt="johnB(4)" src="https://github.com/user-attachments/assets/b50ecdf7-15e6-41ef-8749-8ef285b914c0" />
+<img width="1098" height="847" alt="johnB(5)" src="https://github.com/user-attachments/assets/5099474d-0579-4065-ae73-8cf7cc292fbc" />
+<img width="1118" height="796" alt="johnB(6)" src="https://github.com/user-attachments/assets/633c0177-2dce-440e-8a7e-08f61a15004f" />
+<img width="1093" height="696" alt="johnB(7)" src="https://github.com/user-attachments/assets/b24048ed-c45f-4b3f-a004-4ebe7dfd5a19" />
+<img width="1131" height="496" alt="johnB(8)" src="https://github.com/user-attachments/assets/8b8d27f2-258f-4d69-812f-0da56ec8fe4a" />
 
-📸 *[Screenshot of SLA change & assignment]*
+
+
 
 ### Resolution
 - Documented troubleshooting via internal notes.
 - Restart fixed the issue.
 - Ticket marked **Resolved**.
 
-📸 *[Screenshots of resolution]*
 
 ⚠️ **Note on Permissions:** John should have had reply permissions, but I overlooked it. Because of this, he only used internal notes. In a real-world setting, I would have corrected the agent role permissions so he could communicate directly with the user.
 
